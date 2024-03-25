@@ -1,0 +1,7 @@
+C:\Users\danie\Desktop\Office & Work\PIU\New folder\AfisareInScara\bin\Debug\AfisareInScara.exe.config
+C:\Users\danie\Desktop\Office & Work\PIU\New folder\AfisareInScara\bin\Debug\AfisareInScara.exe
+C:\Users\danie\Desktop\Office & Work\PIU\New folder\AfisareInScara\bin\Debug\AfisareInScara.pdb
+C:\Users\danie\Desktop\Office & Work\PIU\New folder\AfisareInScara\obj\Debug\AfisareInScara.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Office & Work\PIU\New folder\AfisareInScara\obj\Debug\AfisareInScara.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Office & Work\PIU\New folder\AfisareInScara\obj\Debug\AfisareInScara.exe
+C:\Users\danie\Desktop\Office & Work\PIU\New folder\AfisareInScara\obj\Debug\AfisareInScara.pdb
